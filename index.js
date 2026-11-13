@@ -1,4 +1,4 @@
-// Beautiful Subs: make secondary (top) subtitles match primary (bottom) style.
+// Twin Subs: make secondary (top) subtitles match primary (bottom) style.
 // mpv strips ASS styling on secondary subs by default and uses a different
 // position/scale policy; here we mirror the primary settings onto them.
 const { console, event, mpv, preferences } = iina;
