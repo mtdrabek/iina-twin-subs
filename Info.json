@@ -1,6 +1,6 @@
 {
   "name": "Twin Subs",
-  "identifier": "dev.mtdrabek.iina-beautiful-subs",
+  "identifier": "dev.mtdrabek.iina-twin-subs",
   "version": "0.1.0",
   "description": "Makes the top (secondary) subtitles look like the bottom (primary) ones.",
   "author": { "name": "mtdrabek" },
